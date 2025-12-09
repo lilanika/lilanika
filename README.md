@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Lila
 
-<!--
-**lilanika/lilanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building digital products between design, code and UX.
 
-Here are some ideas to get you started:
+🌍 **Based:** Traveling & working remotely  
+💼 **Open to:** Remote roles in product design, UX/UI, or frontend development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+**Design:** Figma, Framer, Prototyping, UX Research  
+**Development:** React, JavaScript, HTML/CSS/SCSS, Node.js, MongoDB, Next.js, Cypress and more 
+**Product:** User Testing, Iterative Development  
+
+### 📫 Let's Connect
+[🌐 Portfolio](https://ahoii-world.netlify.app) • [💼 LinkedIn](https://linkedin.com/in/lilanika) • [📬 Newsletter](https://substack.com/@lilanika)
+
+I love connecting with everyone who are building,
+learning, and staying curious. Whether it's collaboration on a project, co-working somewhere in the world, 
+or chatting about what you're working on over coffee, just DM me.
